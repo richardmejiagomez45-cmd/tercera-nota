@@ -1,6 +1,6 @@
-package ejerciciosunidad1.OperadoresParaPreguntas;
+package ejerciciosunidad1;
  import java.util.Scanner;
-public class Ejercicio3 {
+public class EvaluarTresNumeros {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

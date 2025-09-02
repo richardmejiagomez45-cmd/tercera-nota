@@ -1,6 +1,6 @@
-package ejerciciosunidad1.OperadoresParaPreguntas;
+package ejerciciosunidad1;
 
-public class Ejercicio2 {
+public class OperadoresLogicos {
      public static void main(String[] args) {
         int a = 10;
         int b = 5;

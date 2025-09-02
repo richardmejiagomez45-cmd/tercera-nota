@@ -1,7 +1,7 @@
-package ejerciciosunidad1.EntradaySalida;
+package ejerciciosunidad1;
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class NombreEdadAltura {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese su nombre: ");

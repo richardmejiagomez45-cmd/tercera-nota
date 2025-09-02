@@ -1,5 +1,5 @@
-package ejerciciosunidad1.OperadoresAritmeticos;
-public class Ejercicio1{
+package ejerciciosunidad1;
+public class Tienda{
   public static void main(String[] args) {
        int tshirt = 25;
        int pants =  30;

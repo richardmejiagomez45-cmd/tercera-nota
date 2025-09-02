@@ -1,7 +1,7 @@
-package ejerciciosunidad1.EntradaySalida;
+package ejerciciosunidad1;
 import java.util.Scanner;
 
-public class Ejercicio1{
+public class MediaNumeros{
     public static void main(String[] args) {
       Scanner scanner =new Scanner(System.in);
       System.out.print ("ingrese numero 1:");

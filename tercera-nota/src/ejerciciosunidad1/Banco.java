@@ -1,5 +1,5 @@
-package ejerciciosunidad1.OperadoresAritmeticos;
-public class Ejercicio2 {
+package ejerciciosunidad1;
+public class Banco {
     public static void main(String[] args) {
     int total = 1000;
     total -= 800;
