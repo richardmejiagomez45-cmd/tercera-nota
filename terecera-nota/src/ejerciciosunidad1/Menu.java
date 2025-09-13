@@ -52,17 +52,16 @@ public class Menu {
                 break;
 
                 case 4: 
+                double division = 0;
                 for (int i = 1; i<=number; i++){
                     System.out.print("Escriba numero " + i + ":");
-                    int number1 = scanner.nextInt();
-                     if(i==1){
-                        
-                        result = number1;
+                    double number1 = scanner.nextDouble();
+                   if(i==1){
+                        division = number1;
                     }else {
-                    result = result / number1; }
-                    double x = result;
+                    division = division/number1;}
                 }
-                System.out.println( "El resultado de la division es:"  + result);
+                   System.out.println( "El resultado de la division es:"  + division);
                 break;
             }
             System.out.print("Escribir 1 para otra hacer otra operacion u otro valor para finalizar:");
@@ -70,5 +69,6 @@ public class Menu {
         }
         scanner.close();
     }
-    
 }
+
+
