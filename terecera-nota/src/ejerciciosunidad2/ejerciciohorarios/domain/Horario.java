@@ -1,4 +1,4 @@
-package ejerciciosunidad1.ejerciciohorarios.domain;
+package ejerciciosunidad2.ejerciciohorarios.domain;
 
 public class Horario {
       private String descripcion;

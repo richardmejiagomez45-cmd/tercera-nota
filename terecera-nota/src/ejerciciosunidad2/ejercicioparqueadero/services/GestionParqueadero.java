@@ -1,8 +1,8 @@
-package ejerciciosunidad1.ejercicioparqueadero.services;
+package ejerciciosunidad2.ejercicioparqueadero.services;
 
-import ejerciciosunidad1.ejercicioparqueadero.domain.Parqueadero;
-import ejerciciosunidad1.ejercicioparqueadero.domain.Vehiculo;
-import ejerciciosunidad1.ejercicioparqueadero.domain.Registro;
+import ejerciciosunidad2.ejercicioparqueadero.domain.Parqueadero;
+import ejerciciosunidad2.ejercicioparqueadero.domain.Vehiculo;
+import ejerciciosunidad2.ejercicioparqueadero.domain.Registro;
 
 public class GestionParqueadero {
 

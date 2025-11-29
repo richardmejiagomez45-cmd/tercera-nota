@@ -1,4 +1,4 @@
-package ejerciciosunidad1.ejercicioparqueadero.domain;
+package ejerciciosunidad2.ejercicioparqueadero.domain;
 
 public class Vehiculo {
 

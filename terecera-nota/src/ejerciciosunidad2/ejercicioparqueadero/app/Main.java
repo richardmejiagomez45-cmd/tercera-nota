@@ -1,8 +1,8 @@
-package ejerciciosunidad1.ejercicioparqueadero.app;
+package ejerciciosunidad2.ejercicioparqueadero.app;
 
-import ejerciciosunidad1.ejercicioparqueadero.domain.Parqueadero;
-import ejerciciosunidad1.ejercicioparqueadero.domain.Vehiculo;
-import ejerciciosunidad1.ejercicioparqueadero.services.GestionParqueadero;
+import ejerciciosunidad2.ejercicioparqueadero.domain.Parqueadero;
+import ejerciciosunidad2.ejercicioparqueadero.domain.Vehiculo;
+import ejerciciosunidad2.ejercicioparqueadero.services.GestionParqueadero;
 
 public class Main {
     public static void main(String[] args) {

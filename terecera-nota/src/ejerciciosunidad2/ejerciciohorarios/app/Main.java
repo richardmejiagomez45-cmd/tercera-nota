@@ -1,8 +1,8 @@
-package ejerciciosunidad1.ejerciciohorarios.app;
-import ejerciciosunidad1.ejerciciohorarios.domain.Materia;
-import ejerciciosunidad1.ejerciciohorarios.domain.Horario;
-import ejerciciosunidad1.ejerciciohorarios.domain.Estudiante;
-import ejerciciosunidad1.ejerciciohorarios.services.GestionHorarios;
+package ejerciciosunidad2.ejerciciohorarios.app;
+import ejerciciosunidad2.ejerciciohorarios.domain.Materia;
+import ejerciciosunidad2.ejerciciohorarios.domain.Horario;
+import ejerciciosunidad2.ejerciciohorarios.domain.Estudiante;
+import ejerciciosunidad2.ejerciciohorarios.services.GestionHorarios;
 
 public class Main {
       public static void main(String[] args) {
